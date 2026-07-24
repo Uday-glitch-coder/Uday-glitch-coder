@@ -8,19 +8,19 @@
 
 <br>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://developer-portfolio-pmod.bolt.host">
 <img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/sanegouni-udaykumar-goud-9790302a9">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/Uday-glitch-coder">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="sssgoud893@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
