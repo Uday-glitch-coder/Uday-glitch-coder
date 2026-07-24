@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/Uday-glitch-coder/Uday-glitch-coder/main/banner.png.png" width="100%" alt="Banner"/>
 </p>
 
-# 👋 Hi, I'm S. UdayKumar Goud
+# 👨‍💻 Hi, I'm S. UdayKumar Goud
 
-### Java Full Stack Developer | Java | Python | Spring Boot | React | MySQL 
+### | Java | Python | Spring Boot | React | MySQL 
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;REST+API+Developer;Always+Learning+New+Technologies" />
 
