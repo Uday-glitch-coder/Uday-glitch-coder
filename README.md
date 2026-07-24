@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm S. Uday Kumar
+# 👋 Hi, I'm S. UdayKumar Goud
 
 ### Java Full Stack Developer | Spring Boot | React | MySQL
 
