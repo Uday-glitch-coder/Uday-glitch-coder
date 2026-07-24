@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Uday-glitch-coder/Uday-glitch-coder/main/banner.png.png" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/Uday-glitch-coder/Uday-glitch-coder/main/banner.png.png" width="80%" alt="Banner"/>
 </p>
 
 # 👨‍💻 Hi, I'm S. UdayKumar Goud
