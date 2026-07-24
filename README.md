@@ -3,7 +3,7 @@
 
 # 👨‍💻 Hi, I'm S. UdayKumar Goud
 
-### | Java Full Stack Developer | Java | Python | Spring Boot | React | MySQL 
+### Java Full Stack Developer | Java | Python | Spring Boot | React | MySQL 
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;REST+API+Developer;Always+Learning+New+Technologies" />
 
@@ -13,8 +13,8 @@
 <img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge"/>
 </a>
 
-<a href="www.linkedin.com/in/sanegouni-udaykumar-goud-9790302a9">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/sanegouni-udaykumar-goud-9790302a9" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Uday-glitch-coder">
