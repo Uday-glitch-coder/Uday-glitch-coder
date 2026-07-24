@@ -1,4 +1,6 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Uday-glitch-coder/Uday-glitch-coder/main/banner.png" width="100%" alt="Banner"/>
+</p>
 
 # 👋 Hi, I'm S. UdayKumar Goud
 
