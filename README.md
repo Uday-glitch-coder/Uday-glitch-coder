@@ -35,27 +35,24 @@
 
 # 💫 About Me
 
-🎓 Final Year B.Tech Computer Science Engineering (Data Science)
+🎓 Final Year B.Tech in Computer Science Engineering (Data Science)
 
 💼 Aspiring Java Full Stack Developer
 
-🚀 Passionate about building scalable web applications using Spring Boot and React.
-
-🌱 Currently improving
-
-- Spring Boot
-- REST APIs
-- React
-- System Design
-- Data Structures & Algorithms
+🚀 Passionate about building responsive and scalable web applications using modern frontend and backend technologies.
 
 📍 Hyderabad, India
 
 💬 Ask me about
 
 - Java
-- Spring Boot
+- Python
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 - React
+- Spring Boot
 - MySQL
 - REST APIs
 
